@@ -15,6 +15,6 @@ entries:
     digest: 72543929dc82c4ce75fa3838653e85bcbc2ba090627118eeb389fb8ebcd8cc23
     name: users-grpc
     urls:
-    - https://github.com/maelvls/users-grpc/releases/download/users-grpc-0.1.0/users-grpc-0.1.0.tgz
+    - https://github.com/maelvls/helm-charts/releases/download/users-grpc-0.1.0/users-grpc-0.1.0.tgz
     version: 0.1.0
 generated: "2020-11-17T15:44:45.892785+01:00"
